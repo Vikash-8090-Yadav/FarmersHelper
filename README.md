@@ -48,6 +48,7 @@ I created subgraph for this prroject and query  to make various dashboard like M
 
 ![326470897-40fbf211-c607-4ffd-bd09-596b25277327](https://github.com/Vikash-8090-Yadav/FarmersHelper/assets/85225156/3b017506-74b9-4cd6-a3a3-c883e450286d)
 
+## Graph query used:
 
 ###  The code for creating the Marketplace is in: https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/marketplace.js
 
@@ -57,32 +58,6 @@ and the above component is being used here in this code https://github.com/Vikas
 ###  The code for regestering any case for the farmers can be seen  here: https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/components/Memos.jsx
 amnd the above component is used here in this code -> https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/comment.jsx#L65
 
-
-
-
-## Covalent INtegeration
-
-I used covalent for  Taking out the Lates txn from the contract Address, Visualizing the NFT via the TokenID (Frtching the NFT txn and the holders) BUt the sad part is am geeting the error that  ``` Web3 provider connection is not setup```
-
-### The code for the same can be found in this directory ->  https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/marketplace.js#L48
-
-I used covalent to check the txn hash as well and the code for this can be found  here
-
-### The code is : 
-
-https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/CreateNFT.js#L210
-
-https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/marketplace.js#L163
-
-https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/ResellCrops.jsx#L43
-
-### Errors
-
-![cov](https://github.com/Vikash-8090-Yadav/Vortex2024/assets/85225156/f3d1265c-8a62-4824-bed1-7eb66284206f)
-
-![cv](https://github.com/Vikash-8090-Yadav/Vortex2024/assets/85225156/0623bf0f-9059-4d6e-ad5d-fcf29da5b165)
-
-![dxsd](https://github.com/Vikash-8090-Yadav/Vortex2024/assets/85225156/84c9cd1a-a537-4fff-8674-67b1ea6f9711)
 
 
 
