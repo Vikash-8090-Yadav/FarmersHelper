@@ -50,13 +50,11 @@ I created subgraph for this prroject and query  to make various dashboard like M
 
 ## Graph query used:
 
-###  The code for creating the Marketplace is in: https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/marketplace.js
+###  The code for creating the Marketplace is in: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/pages/marketplace.js#L30
 
-###  The code for seeing the History  of the txn can be found in: https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/components/AnalysisReposrt.jsx
-and the above component is being used here in this code https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/Analysis.jsx
+###  The code for seeing the History  of the txn can be found in: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/components/AnalysisReposrt.jsx#L14
 
-###  The code for regestering any case for the farmers can be seen  here: https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/components/Memos.jsx
-amnd the above component is used here in this code -> https://github.com/Vikash-8090-Yadav/Vortex2024/blob/main/TheGraph/Frontend/src/pages/comment.jsx#L65
+###  The code for regestering any case for the farmers can be seen  here: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/components/Memos.jsx#L15
 
 
 
