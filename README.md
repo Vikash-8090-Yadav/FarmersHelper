@@ -8,7 +8,7 @@
 ### Frontend Deploy Link: https://vortex2024-lk8d.vercel.app/
 
 
-## Farcater Frame: https://warpcast.com/~/developers/frames?url=https%3A%2F%2F2f62-42-105-15-187.ngrok-free.app%2Fapi
+## Farcater Frame:  https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffarmers-helper-cr7y.vercel.app%2Fapi
 
 
 
