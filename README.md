@@ -45,6 +45,36 @@ Verfied: https://sepolia.scrollscan.com/address/0xc466d29dc75a85173086055212677e
 ## The Graph Integration
 
 
+### Graph Query used in Frames 
+
+```
+ const query = `
+  {
+    donations(first: 10, orderBy: id) {
+      from
+      id
+      message
+      name
+      timestamp
+    }
+  }
+  `;
+```
+
+The above query can be found here: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frames/api/index.tsx#L100C2-L110C5
+
+
+### Graph Query used in Frontend (Dapp)
+
+You can  find the query  Here: 
+
+For marketplace Query : https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/pages/marketplace.js#L33
+
+For  History Analysis Query : https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/components/AnalysisReposrt.jsx#L15
+
+
+
+
 I created subgraph for this prroject and query  to make various dashboard like Marketplace , History of txn, Report a case, Purchase a  itwem etc
 
 ### Here's the Link of the subgraph-> https://thegraph.com/studio/subgraph/helperfarm/
