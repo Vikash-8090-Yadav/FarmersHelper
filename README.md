@@ -48,33 +48,8 @@ I created subgraph for this prroject and query  to make various dashboard like M
 
 ![326470897-40fbf211-c607-4ffd-bd09-596b25277327](https://github.com/Vikash-8090-Yadav/FarmersHelper/assets/85225156/3b017506-74b9-4cd6-a3a3-c883e450286d)
 
-## Graph query used:
-
-###  The code for creating the Marketplace is in: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/pages/marketplace.js#L30
-
-###  The code for seeing the History  of the txn can be found in: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/components/AnalysisReposrt.jsx#L14
-
-###  The code for regestering any case for the farmers can be seen  here: https://github.com/Vikash-8090-Yadav/FarmersHelper/blob/main/Frontend/src/components/Memos.jsx#L15
 
 
-
-
-## 🛠️Technologies we used
-
-[![Powered by Filecoin](https://img.shields.io/badge/Powered_by-Filecoin-0174F2?logo=filecoin)](https://filecoin.io/)
-[![Powered by Lighthouse](https://img.shields.io/badge/Powered_by-Lighthouse-ff69b4?logo=lighthouse)](https://lighthouse.filecoin.io/)
-[![Built with React.js](https://img.shields.io/badge/Built_with-React.js-61DAFB?logo=react)](https://reactjs.org/)
-[![Developed in Motoko](https://img.shields.io/badge/Developed_in-Motoko-2196F3?logo=dfinity)](https://sdk.dfinity.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Styled_with-Tailwind_CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![Powered by Ethereum](https://img.shields.io/badge/Powered_by-Ethereum-3C3C3D?logo=ethereum)](https://ethereum.org/)
-
-| Technology        | Description                                                | Official Website                                     |
-|-------------------|------------------------------------------------------------|------------------------------------------------------|
-| React.js          | JavaScript library for building user interfaces, often used for server-rendered or statically-generated applications | [React.js](https://reactjs.org/)                      |
-| Tailwind CSS      | Utility-first CSS framework for building custom designs   | [Tailwind CSS](https://tailwindcss.com/)              |
-| Solidity | Programming language used for smart contract development on the Ethereum blockchain | https://docs.soliditylang.org/ |
-|LightHouse | Store file Secure, Reliable, & Lightning-Fast with Lighthouse. |https://www.lighthouse.storage/|
-|ChainLLink | Chainlink is the decentralized computing platform powering the verifiable web| https://chain.link/|
 |The Graph| The Graph is a decentralized protocol for indexing and querying blockchain data. The Graph makes it possible to query data that is difficult to query directly.|https://thegraph.com/ | 
 | Covalentt |Data infrastructure for the blockchain industry |https://www.covalenthq.com/docs/ |
 |Scroll| Scroll is a decentralized, global team of developers that is focusing on building a holistic approach to scaling Ethereum, prioritizing quality over speed. | https://scroll.io/ | 
