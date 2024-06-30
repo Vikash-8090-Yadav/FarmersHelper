@@ -72,7 +72,7 @@ app.frame('/', (c) => {
         >
           {status === 'response'
             ? `Nice choice.${fruit ? ` ${fruit.toUpperCase()}!!` : ''}`
-            : 'Monetizedo, See Content Review!'}
+            : 'Farmers  Helper, See Farmers Review!'}
         </div>
       </div>
     ),
