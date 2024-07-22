@@ -3,9 +3,6 @@
 
 
 
-### Demo Video: https://youtu.be/Tqpfy42BtMc?si=a8T9l0bs4iS5lbB_
-
-### Frontend Deploy Link: https://vortex2024-lk8d.vercel.app/
 
 
 ## Farcater Frame:  https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffarmers-helper-cr7y.vercel.app%2Fapi
