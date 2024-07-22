@@ -82,7 +82,3 @@ I created subgraph for this prroject and query  to make various dashboard like M
 ![326470897-40fbf211-c607-4ffd-bd09-596b25277327](https://github.com/Vikash-8090-Yadav/FarmersHelper/assets/85225156/3b017506-74b9-4cd6-a3a3-c883e450286d)
 
 
-
-|The Graph| The Graph is a decentralized protocol for indexing and querying blockchain data. The Graph makes it possible to query data that is difficult to query directly.|https://thegraph.com/ | 
-| Covalentt |Data infrastructure for the blockchain industry |https://www.covalenthq.com/docs/ |
-|Scroll| Scroll is a decentralized, global team of developers that is focusing on building a holistic approach to scaling Ethereum, prioritizing quality over speed. | https://scroll.io/ | 
